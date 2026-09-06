@@ -46,26 +46,23 @@ Domain-Specific-Semantic-Similarity/
 │
 ├── data/
 │   └── README.md
-│
-├── paper/
-│   └── README.md
 |
 ├── README.md
 └── requirements.txt
 
 ## Technologies
 
-Python
-FastText
-PyTorch
-Sentence Transformers
-Transformers
-Scikit-learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-OpenPyXL
+- Python
+- FastText
+- PyTorch
+- Sentence Transformers
+- Transformers
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- OpenPyXL
 
 ## Dataset
 
@@ -79,16 +76,12 @@ The large FastText model is not included in this repository because of its file 
 
 The FastText model is loaded from Google Drive when running the notebook in Google Colab.
 
-## Research Paper
-
-The research paper associated with this project is available in the paper/ directory.
-
 ## Requirements
 
 Install the required Python packages using:
-
 pip install -r requirements.txt
-Notebook
+
+## Notebook
 
 The main implementation is available at:
 
