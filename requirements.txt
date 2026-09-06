@@ -1,0 +1,10 @@
+pandas
+numpy
+fasttext
+torch
+scikit-learn
+sentence-transformers
+transformers
+matplotlib
+seaborn
+openpyxl
